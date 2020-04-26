@@ -9,7 +9,6 @@ const routes: Routes = [
     component: HomeComponent,
   },
   {
-    //route parameters.  You can have more than one
     path: 'about/:id',
     component: AboutComponent,
   },
